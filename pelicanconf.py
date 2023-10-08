@@ -29,3 +29,10 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Set up plugins
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['pelican_unity_webgl']
+
+# Set up static paths
+STATIC_PATHS = ['games', 'images']

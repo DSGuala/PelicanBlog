@@ -1,6 +1,6 @@
 AUTHOR = 'Diego'
 SITENAME = 'Failure One'
-SITEURL = ''
+SITEURL = 'https://dsguala.github.io/PelicanBlog/'
 
 PATH = 'content'
 
